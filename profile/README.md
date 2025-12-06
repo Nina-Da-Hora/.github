@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" width="900">
+  <img src="assets/banner.png">
 </p>
 
 # Nina da Hora
