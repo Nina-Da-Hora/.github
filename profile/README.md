@@ -19,20 +19,62 @@ O Equipe Nina da Hora reúne 9 talentosas participantes. Somos um time unido, co
     <td align="center">
       <img src="https://raw.githubusercontent.com/Nina-Da-Hora/.github/main/Integrantes/Francielle.png" width="150"/><br>
       <strong>Francielle Cristina da Costa Silva</strong><br>
-      <a href="https://github.com/Tativv"><img src="https://raw.githubusercontent.com/Nina-Da-Hora/.github/main/assets/github.png" width="70"></a>
-      <a href="https://www.linkedin.com/in/tatiana/"><img src="https://raw.githubusercontent.com/Nina-Da-Hora/.github/main/assets/linkedin.png" width="70"></a>
+      <a href="https://github.com/fran-costa16"><img src="https://raw.githubusercontent.com/Nina-Da-Hora/.github/main/assets/github.png" width="70"></a>
+      <a href=""><img src="https://raw.githubusercontent.com/Nina-Da-Hora/.github/main/assets/linkedin.png" width="70"></a>
     </td>
     <td align="center">
       <img src="https://raw.githubusercontent.com/Nina-Da-Hora/.github/main/Integrantes/Pamella.png" width="150"/><br>
       <strong>Pâmella Azevedo Costa de Oliveira</strong><br>
-      <a href="https://github.com/usuario2"><img src="https://raw.githubusercontent.com/Nina-Da-Hora/.github/main/assets/github.png" width="70"></a>
-      <a href="https://www.linkedin.com/in/integrante2/"><img src="https://raw.githubusercontent.com/Nina-Da-Hora/.github/main/assets/linkedin.png" width="70"></a>
+      <a href="https://github.com/PamOliveira"><img src="https://raw.githubusercontent.com/Nina-Da-Hora/.github/main/assets/github.png" width="70"></a>
+      <a href=""><img src="https://raw.githubusercontent.com/Nina-Da-Hora/.github/main/assets/linkedin.png" width="70"></a>
     </td>
     <td align="center">
       <img src="https://raw.githubusercontent.com/Nina-Da-Hora/.github/main/Integrantes/Vanessa.png" width="150"/><br>
       <strong>Vanessa Simão da Costa</strong><br>
-      <a href="https://github.com/usuario3"><img src="https://raw.githubusercontent.com/Nina-Da-Hora/.github/main/assets/github.png" width="70"></a>
-      <a href="https://www.linkedin.com/in/integrante3/"><img src="https://raw.githubusercontent.com/Nina-Da-Hora/.github/main/assets/linkedin.png" width="70"></a>
+      <a href="https://github.com/VanessaCosta91"><img src="https://raw.githubusercontent.com/Nina-Da-Hora/.github/main/assets/github.png" width="70"></a>
+      <a href="https://www.linkedin.com/in/vanessa-costa-analysis/"><img src="https://raw.githubusercontent.com/Nina-Da-Hora/.github/main/assets/linkedin.png" width="70"></a>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/Nina-Da-Hora/.github/main/Integrantes/Vanelle.png" width="150"/><br>
+      <strong>Vanelle Rabelo do Nasciment</strong><br>
+      <a href="https://github.com/nellerabelo"><img src="https://raw.githubusercontent.com/Nina-Da-Hora/.github/main/assets/github.png" width="70"></a>
+      <a href="https://www.linkedin.com/in/vanelle-rabelo-6a7998397/"><img src="https://raw.githubusercontent.com/Nina-Da-Hora/.github/main/assets/linkedin.png" width="70"></a>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/Nina-Da-Hora/.github/main/Integrantes/Gisela.png" width="150"/><br>
+      <strong>Gisela Keidel</strong><br>
+      <a href="https://github.com/gkeidel"><img src="https://raw.githubusercontent.com/Nina-Da-Hora/.github/main/assets/github.png" width="70"></a>
+      <a href="https://www.linkedin.com/in/giselakeidel/"><img src="https://raw.githubusercontent.com/Nina-Da-Hora/.github/main/assets/linkedin.png" width="70"></a>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/Nina-Da-Hora/.github/main/Integrantes/Bruna.png" width="150"/><br>
+      <strong>Bruna de Avila Pospiesz</strong><br>
+      <a href=""><img src="https://raw.githubusercontent.com/Nina-Da-Hora/.github/main/assets/github.png" width="70"></a>
+      <a href="https://www.linkedin.com/in/bruna-de-avila-pospiesz-418603190/"><img src="https://raw.githubusercontent.com/Nina-Da-Hora/.github/main/assets/linkedin.png" width="70"></a>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/Nina-Da-Hora/.github/main/Integrantes/Luana.png" width="150"/><br>
+      <strong>Luana Jaime Tocchio</strong><br>
+      <a href="https://github.com/Tativv"><img src="https://raw.githubusercontent.com/Nina-Da-Hora/.github/main/assets/github.png" width="70"></a>
+      <a href="https://www.linkedin.com/in/tatiana/"><img src="https://raw.githubusercontent.com/Nina-Da-Hora/.github/main/assets/linkedin.png" width="70"></a>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/Nina-Da-Hora/.github/main/Integrantes/Tatiana.png" width="150"/><br>
+      <strong>Tatiana Varona Villavicencio</strong><br>
+      <a href="https://github.com/Tativv"><img src="https://raw.githubusercontent.com/Nina-Da-Hora/.github/main/assets/github.png" width="70"></a>
+      <a href="https://www.linkedin.com/in/tatiana-varona-villavicencio/"><img src="https://raw.githubusercontent.com/Nina-Da-Hora/.github/main/assets/linkedin.png" width="70"></a>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/Nina-Da-Hora/.github/main/Integrantes/Ingrid.png" width="150"/><br>
+      <strong>Ingrid Costa Ferreira</strong><br>
+      <a href="https://github.com/ingridcos"><img src="https://raw.githubusercontent.com/Nina-Da-Hora/.github/main/assets/github.png" width="70"></a>
+      <a href="https://www.linkedin.com/in/ingridfe/"><img src="https://raw.githubusercontent.com/Nina-Da-Hora/.github/main/assets/linkedin.png" width="70"></a>
     </td>
   </tr>
   
