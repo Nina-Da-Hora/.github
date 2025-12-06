@@ -14,34 +14,30 @@ O Equipe Nina da Hora reúne 9 talentosas participantes. Somos um time unido, co
 </p>
 
 ## 👩‍💼 Integrantes da Equipe
-<p align="center">
-  <!-- Fila 1 -->
-  <span style="display:inline-block; text-align:center; margin:10px;">
-    <img src="https://raw.githubusercontent.com/Nina-Da-Hora/.github/main/Integrantes/Francielle.png" width="150" alt="Francielle"/>
-    <br><strong>Francielle Cristina da Costa Silva</strong>
-    <br>
-    <a href="https://github.com/Tativv"><img src="assets/github.png" width="25"></a>
-    <a href="https://www.linkedin.com/in/tatiana/"><img src="assets/linkedin.png" width="25"></a>
-  </span>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/Nina-Da-Hora/.github/main/Integrantes/Francielle.png" width="150"/><br>
+      <strong>Francielle Cristina da Costa Silva</strong><br>
+      <a href="https://github.com/Tativv"><img src="https://raw.githubusercontent.com/Nina-Da-Hora/.github/main/assets/github.png" width="25"></a>
+      <a href="https://www.linkedin.com/in/tatiana/"><img src="https://raw.githubusercontent.com/Nina-Da-Hora/.github/main/assets/linkedin.png" width="25"></a>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/Nina-Da-Hora/.github/main/Integrantes/Pamella.png" width="150"/><br>
+      <strong>Pâmella Azevedo Costa de Oliveira</strong><br>
+      <a href="https://github.com/usuario2"><img src="https://raw.githubusercontent.com/Nina-Da-Hora/.github/main/assets/github.png" width="25"></a>
+      <a href="https://www.linkedin.com/in/integrante2/"><img src="https://raw.githubusercontent.com/Nina-Da-Hora/.github/main/assets/linkedin.png" width="25"></a>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/Nina-Da-Hora/.github/main/Integrantes/Vanessa.png" width="150"/><br>
+      <strong>Vanessa Simão da Costa</strong><br>
+      <a href="https://github.com/usuario3"><img src="https://raw.githubusercontent.com/Nina-Da-Hora/.github/main/assets/github.png" width="25"></a>
+      <a href="https://www.linkedin.com/in/integrante3/"><img src="https://raw.githubusercontent.com/Nina-Da-Hora/.github/main/assets/linkedin.png" width="25"></a>
+    </td>
+  </tr>
+  <!-- Repetir <tr> para fila 2 y fila 3 -->
+</table>
 
-  <span style="display:inline-block; text-align:center; margin:10px;">
-    <img src="https://raw.githubusercontent.com/Nina-Da-Hora/.github/main/Integrantes/Pamella.png" width="150" alt="Pâmella"/>
-    <br><strong>Pâmella Azevedo Costa de Oliveira</strong>
-    <br>
-    <a href="https://github.com/usuario2"><img src="assets/github.png" width="25"></a>
-    <a href="https://www.linkedin.com/in/integrante2/"><img src="assets/linkedin.png" width="25"></a>
-  </span>
-
-  <span style="display:inline-block; text-align:center; margin:10px;">
-    <img src="https://raw.githubusercontent.com/Nina-Da-Hora/.github/main/Integrantes/Vanessa.png" width="150" alt="Vanessa"/>
-    <br><strong>Vanessa Simão da Costa</strong>
-    <br>
-    <a href="https://github.com/usuario3"><img src="assets/github.png" width="25"></a>
-    <a href="https://www.linkedin.com/in/integrante3/"><img src="assets/linkedin.png" width="25"></a>
-  </span>
-</p>
-
-<!-- Repetir bloque para Fila 2 y Fila 3 -->
 
 
 ## Projetos
