@@ -61,7 +61,7 @@ O Equipe Nina da Hora reúne 9 talentosas participantes. Somos um time unido, co
     <td align="center">
       <img src="https://raw.githubusercontent.com/Nina-Da-Hora/.github/main/Integrantes/Luana.png" width="150"/><br>
       <strong>Luana Jaime Tocchio</strong><br>
-      <a href="https://github.com/Tativv"><img src="https://raw.githubusercontent.com/Nina-Da-Hora/.github/main/assets/github.png" width="70"></a>
+      <a href="https://github.com/luanatocchio"><img src="https://raw.githubusercontent.com/Nina-Da-Hora/.github/main/assets/github.png" width="70"></a>
       <a href="https://www.linkedin.com/in/tatiana/"><img src="https://raw.githubusercontent.com/Nina-Da-Hora/.github/main/assets/linkedin.png" width="70"></a>
     </td>
     <td align="center">
