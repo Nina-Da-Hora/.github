@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.png">
+  <img src="https://raw.githubusercontent.com/Nina-Da-Hora/.github/main/assets/banner.png" width="100%" alt="Banner do Bootcamp" />
 </p>
 
 # Nina da Hora
