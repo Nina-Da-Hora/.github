@@ -79,9 +79,12 @@ O Equipe Nina da Hora reúne 9 talentosas participantes. Somos um time unido, co
   </tr>
 </table>
 
-
-
 ## 📂 Projetos
+<div style="text-align:center; margin:15px 0;">
+  <h3><a href="https://github.com/Nina-Da-Hora/Squad-Nina-Da-Hora---Exercicio-Banco-de-Dados-SQL-I" target="_blank" style="text-decoration:none; color:#0366d6;">
+    Exercício Banco de Dados SQL I
+  </a></h3>
+</div>
 
 
 ## 🛠 Tecnologias e Ferramentas
