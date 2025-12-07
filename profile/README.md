@@ -80,7 +80,6 @@ O Equipe Nina da Hora reúne 9 talentosas participantes. Somos um time unido, co
 </table>
 
 ## 📂 Projetos
-## 📁 Projetos
 
 <div style="text-align:center; margin:15px 0;">
   <h3>
