@@ -80,12 +80,28 @@ O Equipe Nina da Hora reúne 9 talentosas participantes. Somos um time unido, co
 </table>
 
 ## 📂 Projetos
-<div style="text-align:center; margin:15px 0;">
-  <h3><a href="https://github.com/Nina-Da-Hora/Squad-Nina-Da-Hora---Exercicio-Banco-de-Dados-SQL-I" target="_blank" style="text-decoration:none; color:#0366d6;">
-    Exercício Banco de Dados SQL I
-  </a></h3>
-</div>
+## 📁 Projetos
 
+<div style="text-align:center; margin:15px 0;">
+  <h3>
+    <a href="https://github.com/Nina-Da-Hora/data-wrangling-pipeline" target="_blank" style="text-decoration:none; color:#0366d6;">
+      Data Wrangling Pipeline
+    </a>
+  </h3>
+
+<div style="text-align:center; margin:15px 0;">
+  <h3>
+    <a href="https://github.com/Nina-Da-Hora/Squad-Nina-Da-Hora-Exercicio-Banco-de-Dados-SQL-III" target="_blank" style="text-decoration:none; color:#0366d6;">
+      Exercício Banco de Dados SQL II
+    </a>
+  </h3>
+
+<div style="text-align:center; margin:15px 0;">
+  <h3>
+    <a href="https://github.com/Nina-Da-Hora/Squad-Nina-Da-Hora---Exercicio-Banco-de-Dados-SQL-I" target="_blank" style="text-decoration:none; color:#0366d6;">
+      Exercício Banco de Dados SQL I
+    </a>
+  </h3>
 
 ## 🛠 Tecnologias e Ferramentas
 
