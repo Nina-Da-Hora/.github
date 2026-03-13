@@ -109,6 +109,7 @@ O Equipe Nina da Hora reúne 9 talentosas participantes. Somos um time unido, co
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
   <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
 </p>
 
 ### BI e Visualização de Dados
@@ -116,6 +117,7 @@ O Equipe Nina da Hora reúne 9 talentosas participantes. Somos um time unido, co
   <img src="https://img.shields.io/badge/power%20bi-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI"/>
   <img src="https://img.shields.io/badge/Google%20Sheets-%2334A853?style=for-the-badge&logo=googlesheets&logoColor=white" alt="Google Sheets"/>
   <img src="https://img.shields.io/badge/Google%20Slides-FFA000?style=for-the-badge&logo=googleslides&logoColor=white" alt="Google Slides"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
 </p>
 
 ### Gestão de Projetos e Comunicação
