@@ -49,12 +49,6 @@ O Equipe Nina da Hora reúne 9 talentosas participantes. Somos um time unido, co
       <a href="https://github.com/gkeidel"><img src="https://raw.githubusercontent.com/Nina-Da-Hora/.github/main/assets/github.png" target="_blank" width="70"></a>
       <a href="https://www.linkedin.com/in/giselakeidel/"><img src="https://raw.githubusercontent.com/Nina-Da-Hora/.github/main/assets/linkedin.png" target="_blank" width="70"></a>
     </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/Nina-Da-Hora/.github/main/Integrantes/Bruna.png" width="150"/><br>
-      <strong>Bruna de Avila Pospiesz</strong><br>
-      <a href=""><img src="https://raw.githubusercontent.com/Nina-Da-Hora/.github/main/assets/github.png" target="_blank" width="70"></a>
-      <a href="https://www.linkedin.com/in/bruna-de-avila-pospiesz-418603190/"><img src="https://raw.githubusercontent.com/Nina-Da-Hora/.github/main/assets/linkedin.png" target="_blank" width="70"></a>
-    </td>
   </tr>
 
   <tr>
